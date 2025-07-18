@@ -3,3 +3,4 @@ build/
 images/
 FETCH_HEAD
 requirements.txt
+spec/
