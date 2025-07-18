@@ -1,3 +1,5 @@
 .venv/
 build/
 images/
+FETCH_HEAD
+requirements.txt
